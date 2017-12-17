@@ -1,4 +1,5 @@
 ##Description: this Mod renames the Fatale smg to the Bitch and allows it to spawn in all elements!
+##This is also my first TPS mod
 
 set GD_Cork_Weap_SMG.Name.Title_Hyperion.Title_Legendary_Bitch PartName Bitch
 
